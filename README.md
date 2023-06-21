@@ -1,3 +1,3 @@
 # DataInsider
 
-#aluraChallengeRobotTrading
+#aluraChallengeDataInsider
